@@ -36,25 +36,21 @@ void loop()
 {
   digitalWrite(led6, LOW);     // posar a 0V el pin 11
   digitalWrite(led0, HIGH);    // posar a 5V el pin 5
-  delay(t);                  // retard de 250 ms
   digitalWrite(led7, LOW);     // posar a 0V el pin 12
   digitalWrite(led1, HIGH);    // posar a 5V el pin 6
   delay(t);                  // retard de 250 ms
   digitalWrite(led0, LOW);     // posar a 0V el pin 5
   digitalWrite(led2, HIGH);    // posar a 5V el pin 7
-  delay(t);                  // retard de 250 ms
   digitalWrite(led1, LOW);     // posar a 0V el pin 6
   digitalWrite(led3, HIGH);    // posar a 5V el pin 8
   delay(t);                  // retard de 250 ms
   digitalWrite(led2, LOW);     // posar a 0V el pin 7
   digitalWrite(led4, HIGH);    // posar a 5V el pin 9
-  delay(t);                  // retard de 250 ms
   digitalWrite(led3, LOW);     // posar a 0V el pin 8
   digitalWrite(led5, HIGH);    // posar a 5V el pin 10
   delay(t);
   digitalWrite(led4, LOW);     // posar a 0V el pin 9
   digitalWrite(led6, HIGH);    // posar a 5V el pin 11
-  delay(t);                  // retard de 250 ms
   digitalWrite(led5, LOW);     // posar a 0V el pin 10
   digitalWrite(led7, HIGH);    // posar a 5V el pin 12
   delay(t);                  // retard de 250 ms
