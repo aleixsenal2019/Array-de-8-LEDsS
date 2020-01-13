@@ -17,7 +17,7 @@ const int led5 = 10;         // donar nom al pin 10 de l’Arduino
 const int led6 = 11;         // donar nom al pin 11 de l’Arduino
 const int led7 = 12;         // donar nom al pin 12 de l’Arduino
 const int buttonPin = 2;     // donar nom al pin 2 de l’Arduino
-const int t = 500; 
+const int t = 250; 
 //********** Setup ****************************************************************
 void setup()
 {
